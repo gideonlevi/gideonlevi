@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gideonlevi&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonlevi&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&exclude_repo=Tweet-Emotion-Classifier" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonlevi&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ###
